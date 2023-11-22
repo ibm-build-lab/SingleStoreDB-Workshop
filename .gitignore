@@ -1,0 +1,6 @@
+.env
+.env/**
+.ipynb_checkpoints
+.ipynb_checkpoints/**
+genai/
+ssai/

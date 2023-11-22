@@ -1,0 +1,15 @@
+python-dotenv==1.0.0
+torch==2.1.0
+singlestoredb==0.9.5
+evaluate==0.4.1
+sentence_transformers==2.2.2
+sqlalchemy-singlestoredb==0.3.1
+pandas==1.5.3
+rouge_score==0.1.2
+nltk==3.8.1
+langchain==0.0.329
+unstructured==0.10.28
+ibm-watson-machine-learning>=1.0.326
+pydantic==1.10.0
+boto3==1.28.76
+jupyter==1.0.0
