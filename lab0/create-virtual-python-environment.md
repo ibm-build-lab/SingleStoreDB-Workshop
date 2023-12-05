@@ -2,7 +2,7 @@
 
 Python applications import multiple libraries, and oftentimes, conflicts can occur between different versions of required libraries.  However your app may require a specific library version due to a bug fix.  The solution is to create a virtual environment, a self-contained suite of libraries for a specific Python installation.
 
-We will use Python's built-in virtual environment functionality which was introduced in Python version 3.3 and provides [a built-in environments module called venv](https://docs.python.org/3/tutorial/venv.html).  You may be asking why we aren't using Conda.  The reason is that [Conda/Miniconda is now on IBM's "do-not-use" list](https://w3.ibm.com/w3publisher/ossc-process/exception-and-do-not-use) because of use of the Anaconda repo.
+We will use Python's built-in virtual environment functionality which was introduced in Python version 3.3 and provides [a built-in environments module called venv](https://docs.python.org/3/tutorial/venv.html).  
 
 While creating your virtual Python environment below, you will also be installing all the libraries required to complete this Boot Camp including Jupyter Notebooks, Hugging Face libraries, ChromaDB and LangChain.
 

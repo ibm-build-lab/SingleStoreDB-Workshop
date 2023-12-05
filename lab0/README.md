@@ -67,6 +67,6 @@ To check that the file was changed to .env, type the following command:
 ls -la 
 ```
 
-### 7: .gitignore Files
+### 6: .gitignore Files
 
 Whenever checking code into a Github repo, use .gitignore to exclude files from being checked-in.  If you don't know how to do this, [learn how to add your .env to .gitignore](https://salferrarello.com/add-env-to-gitignore/).
