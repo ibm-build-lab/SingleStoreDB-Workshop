@@ -4,3 +4,5 @@
 .ipynb_checkpoints/**
 genai/
 ssai/
+lab1/psgs.tsv
+lab1/questions_test.csv

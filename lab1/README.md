@@ -1,4 +1,4 @@
-# Lab2 - SQL Codegen
+# Lab1 - RAG Pattern
 
 ### How to use this notebook
 
