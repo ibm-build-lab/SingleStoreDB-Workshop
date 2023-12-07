@@ -2,3 +2,6 @@ IBM_APIKEY=<ibm_key>
 SSDB_PASSWORD=<ssdb_password>
 SSDB_HOST=<ssdb_host>
 PROJECT_ID=<project-id>
+DB_NAME=<db-name>
+CON_USER=<con-user>
+DB_PORT=<db-port>
